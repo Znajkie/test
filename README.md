@@ -1,2 +1,2 @@
 # test
-HTML och CSS
+HTML och CSS och JAVASCRIPT
